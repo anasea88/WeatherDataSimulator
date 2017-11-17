@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locations>
+	<location locationName="Sydney" locationCode="SYD"  latlong="-33.86,151.21" altitude="39">
+		<weatherData loc="input_data/Sydney" />
+	</location>
+	
+	<location locationName="Melbourne" locationCode="MEL"  latlong="-37.83,144.98" altitude="7">
+		<weatherData loc="input_data/Melbourne" />
+	</location>
+</locations>
