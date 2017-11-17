@@ -1,0 +1,2 @@
+# WeatherDataSimulator
+Weather forecasting application
